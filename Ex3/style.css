@@ -1,0 +1,39 @@
+/* body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    width: 100%;
+} */
+/*****Nav bar****/
+/* li a{
+    color: black !important;
+    font-weight: bold;
+    margin-right: 10px;
+    font-size: 15px;
+    border: 2px solid transparent;
+}
+li a:hover{
+    border-bottom: 2px solid blue;
+    color: tomato !important;  
+} */
+
+/*------Home Section------*/
+/* .image-fluid{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0,0,0,0.8);
+}
+.content{
+    position: absolute;
+    overflow: hidden;
+    color: white;
+    margin-left: 15%;
+    margin-top: 15%;
+    
+} */
+/* .overlay{
+    margin-top: 200px !important;
+} */
+

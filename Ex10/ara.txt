@@ -1,0 +1,1 @@
+Welcome to Ajax. this is my first ajax page..
